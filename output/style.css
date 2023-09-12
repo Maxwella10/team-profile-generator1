@@ -1,0 +1,16 @@
+.team-area {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 40px;
+    margin: 0 auto;
+}
+
+.team-heading {
+    background-color: rgb(255, 0, 76);
+    color: white;
+}
+
+.card-header {
+    background-color: rgb(70, 150, 253);
+    color: white;
+}
