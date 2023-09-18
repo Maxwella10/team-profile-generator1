@@ -32,10 +32,12 @@ npm i
 
 To run the application, run the following command:
 
-![](
+
 
 
 node index.js
 
 
 ## The picture below shows the application functionality:
+
+![](team-profile-generator)
