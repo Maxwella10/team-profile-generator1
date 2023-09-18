@@ -38,15 +38,21 @@ To run the application, run the following command:
 node index.js
 
 
-## The picture below shows the application functionality:
+## The picture below displays the application functionality:
 
 ![](team-profile-generator.png)
 
 
-##Tests
+## Tests
 
 
 To run tests, run the following command:
 
 
 npm run test
+
+
+## Tools
+
+
+html  CSS3  Bootstrap  JavaScript  NodeJS  npm  jest 
