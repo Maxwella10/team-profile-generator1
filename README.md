@@ -41,3 +41,12 @@ node index.js
 ## The picture below shows the application functionality:
 
 ![](team-profile-generator.png)
+
+
+##Tests
+
+
+To run tests, run the following command:
+
+
+npm run test
