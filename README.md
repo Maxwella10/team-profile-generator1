@@ -18,14 +18,21 @@ Questions
 
 ## Installation
 
+
 To install necessary dependencies, run the following command:
 
 
+
 npm i
+
 
 ## Usage
 
 To run the application, run the following command:
 
 
+
 node index.js
+
+
+## The picture below shows the application functionality:
