@@ -57,21 +57,15 @@ npm run test
 
 html
 
-
 CSS3
-
 
 Bootstrap
 
-
 JavaScript
-
 
 NodeJS
 
-
 npm 
-
 
 jest
 
