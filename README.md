@@ -6,7 +6,11 @@ This CLI node.js application generates an HTML file that displays essential info
 
 
 ## Table of Contents
+
 Installation
+
 Usage
+
 Tests
+
 Questions
