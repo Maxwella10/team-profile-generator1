@@ -40,4 +40,4 @@ node index.js
 
 ## The picture below shows the application functionality:
 
-![](team-profile-generator)
+![](./output/style.css/team-profile-generator)
