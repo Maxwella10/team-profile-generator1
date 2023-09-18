@@ -55,4 +55,29 @@ npm run test
 ## Tools
 
 
-html  CSS3  Bootstrap  JavaScript  NodeJS  npm  jest 
+html
+
+
+CSS3
+
+
+Bootstrap
+
+
+JavaScript
+
+
+NodeJS
+
+
+npm 
+
+
+jest
+
+
+
+## Questions
+
+
+If you have any questions, you can reach me at: GitHub: Maxwella10. Email: meziemax7@gmail.com
